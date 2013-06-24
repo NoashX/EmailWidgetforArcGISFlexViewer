@@ -10,3 +10,6 @@ ok to copy and paste these files into your relevant directory.
 The Email folder needs to be placed here: "src\widgets\Email" and then the project must be built.
 
 Also included is a suggested image for the Email Widget icon, but please use whatever pleases you.
+
+URL for uncompiled source code is here:  https://github.com/NoashX/arcgis-viewer-flex/tree/3.3-src
+
