@@ -11,5 +11,8 @@ The Email folder needs to be placed here: "src\widgets\Email" and then the proje
 
 Also included is a suggested image for the Email Widget icon, but please use whatever pleases you.
 
-URL for uncompiled source code of the ArcGIS Viewer for Flex 3.3 is here:  
+Uncompiled source code of the ArcGIS Viewer for Flex 3.3 is here:  
 https://github.com/Esri/arcgis-viewer-flex/tree/3.3-src
+
+More information regarding the Esri and the ArcGIS Viewer for Flex:
+http://resources.arcgis.com/en/communities/flex-viewer/
